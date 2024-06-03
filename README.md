@@ -1,18 +1,27 @@
-Mini Projetos JavaScript (Iniciante)
-Neste repositório, estou compartilhando uma série de mini projetos que desenvolvi enquanto estou aprendendo JavaScript. Cada projeto representa um marco em minha jornada de aprendizado e reflete o que fui capaz de criar até agora. Esta é uma coleção em constante evolução à medida que continuo explorando e experimentando com JavaScript.
+# Mini Projetos JavaScript (Iniciante)
+<img src="A:\CURSOS\PROGRAMAÇÃO\js.png" alt="Exemplo imagem">
 
-Sobre os Projetos
-Os projetos neste repositório são pequenos, mas significativos para mim, pois cada um deles me ensinou algo novo sobre JavaScript e programação web em geral. Eles podem variar em complexidade, desde projetos simples de manipulação de DOM até implementações mais avançadas de algoritmos e estruturas de dados.
+> Este repositório serve como um espaço para armazenar os mini projetos que aprendi com as aulas no canal do @fernandoleonid enquanto estou estudando JavaScript. Cada projeto representa uma oportunidade de praticar conceitos fundamentais da linguagem e explorar diferentes áreas de aplicação.
 
-Como Navegar
-Sinta-se à vontade para explorar os projetos neste repositório. Cada pasta contém um projeto separado com seu próprio código-fonte e arquivos necessários. Não hesite em examinar o código, experimentar com ele e, se desejar, fornecer feedback ou sugestões de melhorias.
+## Sobre os Projetos
 
-Lista de Projetos
-Calculadora Simples: Uma calculadora básica que executa operações aritméticas simples.
-Lista de Tarefas: Um aplicativo de lista de tarefas onde você pode adicionar, editar e excluir tarefas.
-Relógio Analógico: Um relógio simples que exibe a hora atual em um formato analógico.
-Jogo da Forca: Uma versão simples do jogo da forca onde você tenta adivinhar uma palavra oculta.
-Como Contribuir
-Este repositório é principalmente uma maneira de acompanhar meu progresso em JavaScript, mas se você tiver sugestões ou melhorias para qualquer um dos projetos, sinta-se à vontade para abrir uma issue ou enviar uma solicitação de pull.
+Os projetos neste repositório são resultados do meu processo de aprendizado em JavaScript. Eles podem variar em complexidade e finalidade, desde exercícios simples até pequenos aplicativos práticos.
 
-Espero que esses projetos possam ser úteis para outros iniciantes em JavaScript, assim como foram para mim durante minha jornada de aprendizado.
+## Como Navegar
+
+Sinta-se à vontade para explorar os projetos neste repositório. Você pode examinar o código-fonte, experimentar os aplicativos e até mesmo sugerir melhorias se desejar.
+
+## Lista de Projetos
+
+>O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] 1. **Calculadora IMC**: Uma calculadora simples para calcular o indice IMC de uma pessoa.
+- [x] 2. **Lampada 1**: Uma aplicação simples para acender, apagar e trocar uma lampada, com uma função que quebra ela caso dê 2 cliques na mesma.
+- [x] 3. **Lampada 2**: Diferente da lampada 1, esta tem apenas dois botões, sendo um deles para trocar e o outro com dupla funcionalidade.
+- [x] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
+
+## Contribuindo
+
+Este repositório é uma coleção pessoal de projetos de aprendizado, mas se você tiver sugestões ou feedback sobre qualquer um dos projetos, fique à vontade para compartilhar através das issues.
+
+Divirta-se explorando os projetos e acompanhando minha jornada de aprendizado em JavaScript!
