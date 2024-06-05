@@ -16,9 +16,9 @@ Sinta-se à vontade para explorar os projetos neste repositório. Você pode exa
 >O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] 1. **Calculadora IMC**: Uma calculadora simples para calcular o indice IMC de uma pessoa.
-- [x] 2. **Lampada 1**: Uma aplicação simples para acender, apagar e trocar uma lampada, com uma função que quebra ela caso dê 2 cliques na mesma.
-- [x] 3. **Lampada 2**: Diferente da lampada 1, esta tem apenas dois botões, sendo um deles para trocar e o outro com dupla funcionalidade.
-- [x] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
+- [ ] 2. **Lampada 1**: Uma aplicação simples para acender, apagar e trocar uma lampada, com uma função que quebra ela caso dê 2 cliques na mesma.
+- [ ] 3. **Lampada 2**: Diferente da lampada 1, esta tem apenas dois botões, sendo um deles para trocar e o outro com dupla funcionalidade.
+- [ ] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
 
 ## Contribuindo
 
