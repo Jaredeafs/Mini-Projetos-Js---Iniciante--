@@ -1,5 +1,5 @@
 # Mini Projetos JavaScript (Iniciante)
-<img src="A:\CURSOS\PROGRAMAÇÃO\js.png" alt="Exemplo imagem">
+<img src="img/js.png" alt="js.png">
 
 > Este repositório serve como um espaço para armazenar os mini projetos que aprendi com as aulas no canal do @fernandoleonid enquanto estou estudando JavaScript. Cada projeto representa uma oportunidade de praticar conceitos fundamentais da linguagem e explorar diferentes áreas de aplicação.
 
