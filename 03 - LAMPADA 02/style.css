@@ -1,0 +1,34 @@
+main{
+    text-align: center;
+    margin: 20px;
+    padding: 100px;
+    
+}
+img{
+    width: 300px;
+    margin-left: 20px;
+}
+#botao{
+    padding: 20px;
+    margin-left: 5px;
+}
+#On-Off {
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#desligarL {
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+} 
+#trocarL {
+    width: 130px;
+    height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+}
