@@ -1,0 +1,80 @@
+#img{
+    text-align: center;
+    padding: 100px;
+}
+#botoes{
+    text-align: center;
+    margin-left: 30px;
+}
+#b_vermelho {
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#b_amarelo {
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#b_verde {
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#b_auto {
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#b_off {
+    width: 100px;
+    height: 50px;
+    border-radius: 70px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+/* Efeito de transição ao passar o cursor */
+#b_vermelho:hover {
+    background-color: darkred;
+    color: white;
+    transform: scale(1.1);
+}
+
+#b_amarelo:hover {
+    background-color: gold;
+    transform: scale(1.1);
+}
+
+#b_verde:hover {
+    background-color: darkgreen;
+    color: white;
+    transform: scale(1.1);
+}
+
+#b_auto:hover {
+    background-color: darkblue;
+    color: white;
+    transform: scale(1.1);
+}
+
+#b_off:hover {
+    background-color: darkgray;
+    transform: scale(1.1);
+}
