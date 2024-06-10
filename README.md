@@ -20,9 +20,21 @@ Sinta-se à vontade para explorar os projetos neste repositório. Você pode exa
       <p align="center">
       <img src="img/01 - Calculadora imc.png" alt="01 - Calculadora imc.png" width="200" height="200">
       </p>
-- [ ] 2. **Lampada 1**: Uma aplicação simples para acender, apagar e trocar uma lampada, com uma função que quebra ela caso dê 2 cliques na mesma.
-- [ ] 3. **Lampada 2**: Diferente da lampada 1, esta tem apenas dois botões, sendo um deles para trocar e o outro com dupla funcionalidade.
-- [ ] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
+- [x] 2. **Lampada 1**: Uma aplicação simples para acender, apagar e trocar uma lampada, com uma função que quebra ela caso dê 2 cliques na mesma.
+      <li><a href="./02%20-%20LAMPADA%2001/">Código</a></li>
+      <p align="center">
+      <img src="img/lamp 1.png" alt="lamp 1.png" width="200" height="200">
+      </p>
+- [x] 3. **Lampada 2**: Diferente da lampada 1, esta tem apenas dois botões, sendo um deles para trocar e o outro com dupla funcionalidade.
+      <li><a href="./03%20-%20LAMPADA%2002/">Código</a></li>
+      <p align="center">
+      <img src="img/lamp 2.png" alt="lamp 2.png" width="150" height="200">
+      </p>
+- [x] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
+      <li><a href="./main/04%20-%20SEMAFOROC/">Código</a></li>
+      <p align="center">
+      <img src="img/semaforo.png" alt="semaforo.png" width="200" height="200">
+      </p>
 
 ## Contribuindo
 
