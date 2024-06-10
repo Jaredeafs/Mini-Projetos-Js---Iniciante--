@@ -31,7 +31,7 @@ Sinta-se à vontade para explorar os projetos neste repositório. Você pode exa
       <img src="img/lamp 2.png" alt="lamp 2.png" width="150" height="200">
       </p>
 - [x] 4. **Semaforo**: Um esquema de semaforo, com funções manuais de troca de cores, uma automatica e uma opção de desligar.
-      <li><a href="./main/04%20-%20SEMAFOROC/">Código</a></li>
+      <li><a href="./04%20-%20SEMAFORO/">Código</a></li>
       <p align="center">
       <img src="img/semaforo.png" alt="semaforo.png" width="200" height="200">
       </p>
