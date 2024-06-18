@@ -35,6 +35,11 @@ Sinta-se à vontade para explorar os projetos neste repositório. Você pode exa
       <p align="center">
       <img src="img/semaforo.png" alt="semaforo.png" width="200" height="200">
       </p>
+- [x] 5. **SlideShow**: Este projeto é um slideshow automatizado de imagens com títulos e descrições sincronizados, permitindo navegação manual e automática entre os itens.
+      <li><a href="./05%20-%20SLIDESHOW/">Código</a></li>
+      <p align="center">
+      <img src="img/slideshow.png" alt="slideshow.png" width="200" height="200">
+      </p>
 
 ## Contribuindo
 
