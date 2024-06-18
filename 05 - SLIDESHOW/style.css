@@ -1,0 +1,108 @@
+* {
+    margin: 50;
+    padding: 50;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: auto;
+    bottom: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.box-slide {
+    text-align: center;
+    margin-bottom: 50px; /* Ajusta a distância entre o carrossel e a descrição */
+}
+
+#container-title {
+    
+    text-align: center;
+    margin-top: 10px; /* Ajuste a margem superior conforme necessário */
+    font-size: 2rem; /* Reduzi o tamanho da fonte para ficar mais próximo da imagem */
+    color: #333;
+    text-transform: capitalize; /* Transforma a primeira letra de cada palavra em maiúscula */
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    
+    
+}
+
+.container-slide {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+    margin: 10vh auto;
+    border-radius: 10px;
+    box-shadow: 0 20px 30px black;
+    overflow: hidden;
+}
+
+.container-items {
+    position: absolute;
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 10px;overflow: hidden;
+    
+}
+.item{
+    width: 50vw;
+    height: 50vh;
+    transition: all 1s;
+}
+.item:first-child{
+    margin-left: -100%;
+}
+
+.item img{
+    width: 50vw;
+    height: 50vh;
+    border-radius: 10px;
+
+}
+.action-button {
+    font: bold 30px sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    color: #00000000;
+    user-select: none;
+    z-index: 1;
+}
+
+.action-button:hover {
+    color: white;
+    background-color: #00000055;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+#container-description {
+    position: absolute;
+    bottom: 10px; /* Posiciona a descrição 10px acima da margem inferior */
+    left: 50%; /* Centraliza horizontalmente */
+    transform: translateX(-50%); /* Centraliza horizontalmente */
+    width: 90%; /* Define a largura da descrição */
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para melhor legibilidade */
+    color: white;
+    font-size: 1.2rem;
+    text-align: center;
+    border-radius: 5px;
+}
