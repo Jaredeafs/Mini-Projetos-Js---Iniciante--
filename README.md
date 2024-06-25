@@ -40,6 +40,11 @@ Sinta-se à vontade para explorar os projetos neste repositório. Você pode exa
       <p align="center">
       <img src="img/slideshow.png" alt="slideshow.png" width="200" height="200">
       </p>
+- [x] 5. **DRUM KIT**: Este projeto cria uma interface de bateria virtual que permite tocar sons específicos ao clicar nas teclas exibidas ou pressionar teclas correspondentes no teclado.
+      <li><a href="./06%20-%20DRUM%20KIT/">Código</a></li>
+      <p align="center">
+      <img src="img/drum kit.png" alt="drum kit.png" width="300" height="200">
+      </p>
 
 ## Contribuindo
 
